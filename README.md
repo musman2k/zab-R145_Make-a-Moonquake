@@ -3,7 +3,7 @@
 ![Moonkit](https://github.com/musman2k/zab-R145_Make-a-Moonquake/assets/89705011/d5cf0b44-0736-4cd8-ae52-66464450a51a)
 
 
-This is a 3D moon that was created with Three.js.
+This is an Interactive 3D moon that was created with Three.js.
 
 
 ---
